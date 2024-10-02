@@ -1,0 +1,12 @@
+.vscode/*.json
+
+include/GLFW/*.h
+include/KHR/*.h
+include/glad/*.h
+
+src/glad.c
+
+lib/*.a
+
+*.dll
+*.exe
